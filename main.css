@@ -1,0 +1,35 @@
+body{
+	width: 95%;
+	margin:auto;
+	font-family: 'Nunito Sans', sans-serif;
+			
+	}
+	
+	.carousel{
+		width: 66vw;
+		height: 100vh;
+	}
+	.flex_container{
+		display: flex;
+		align-items: center;
+	}
+	.flex_top{
+		position: sticky;
+		top: 0vh;
+		background-color: #723cb9;
+	}
+
+	image{
+		max-width: 100%;
+    height: auto;
+    width: auto;
+	}
+	.navbar-brand {
+		display: inline-block;
+		padding-top: .3125rem;
+		padding-bottom: .3125rem;
+		margin-right: 1rem;
+		font-size: 3rem;
+		line-height: inherit;
+		white-space: nowrap;
+	}
