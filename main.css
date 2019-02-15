@@ -21,14 +21,14 @@ body{
 	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23808080' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
 }
 
+
 	image{
-		max-width: 100%;
-    height: auto;
-    width: auto;
+	height: 100%;
+    
 	}
 
 	
 .libre{
 	font-family:'Libre Barcode 39 Text', cursive;
-	font-size: 2rem;
+	font-size: 2.8rem;
 }
