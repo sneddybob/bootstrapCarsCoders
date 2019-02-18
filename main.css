@@ -24,7 +24,11 @@ body{
 
 	image{
 	height: 100%;
+	padding: 2rem;
     
+	}
+	.div{
+		padding: 3rem;
 	}
 
 	
